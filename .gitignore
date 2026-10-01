@@ -1,0 +1,22 @@
+# Local configuration
+.env
+.env.*
+!.env.example
+api.env
+gcp.env
+
+# Python runtime files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Private source material and generated artifacts
+input/
+exam_img/
+output_json/
+generated/
+work/
+tmp_*/
+temp_*/
+*.log
