@@ -4,6 +4,13 @@
 !.env.example
 api.env
 gcp.env
+security_key
+credentials*.json
+service-account*.json
+service_account*.json
+token.json
+*.pem
+*.key
 
 # Python runtime files
 __pycache__/
@@ -19,4 +26,8 @@ generated/
 work/
 tmp_*/
 temp_*/
+assets/
+cache/
+.cache/
+*.pdf
 *.log

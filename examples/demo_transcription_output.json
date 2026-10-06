@@ -1,0 +1,23 @@
+{
+  "schema_version": "synthetic_transcription_demo_v1",
+  "questions": [
+    {
+      "question_id": "DEMO-DOC-001__Q1",
+      "document_id": "DEMO-DOC-001",
+      "question_number": "1",
+      "question_type": "single_choice",
+      "question_text": "Which abstract data type uses first-in, first-out order?",
+      "options": [
+        { "label": "A", "text": "Stack" },
+        { "label": "B", "text": "Queue" },
+        { "label": "C", "text": "Tree" },
+        { "label": "D", "text": "Graph" }
+      ],
+      "source_pages": [1],
+      "visual_assets": [],
+      "needs_review": false
+    }
+  ],
+  "assets": [],
+  "notice": "Synthetic documentation fixture. It is not a converted examination and has no source PDF."
+}

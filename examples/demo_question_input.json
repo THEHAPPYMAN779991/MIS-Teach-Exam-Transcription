@@ -1,0 +1,5 @@
+{
+  "document_id": "DEMO-DOC-001",
+  "notice": "The actual pipeline input is PDF. This synthetic file only documents the target question domain.",
+  "intended_question": "Which abstract data type uses first-in, first-out order?"
+}
